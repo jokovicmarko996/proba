@@ -2,6 +2,7 @@
 #include <string.h>
 #define SIZE 20
 /* Sum of big numbers from string array(string doesnt fin in normal types) */
+/* dodat novi komentars  */
 char* sumBigNumbers(const char*x, const char*y);
 
 int main(){
