@@ -3,6 +3,7 @@
 #define SIZE 20
 /* Sum of big numbers from string array(string doesnt fin in normal types) */
 /* dodat novi komentars  */ /* dodat jos jedan komentar u novoj grani */
+/*proba*/
 char* sumBigNumbers(const char*x, const char*y);
 
 int main(){
